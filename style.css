@@ -1,0 +1,290 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+
+.limite-topo{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.topo{
+    position: relative;
+    padding: 35px 0;
+}
+
+.logo-topo{
+    position:relative;
+}
+
+.logo-topo img{
+    width: 80px;
+}
+
+.logo-topo div{
+    position: absolute;
+    top: 0;
+    left: 95px;
+}
+
+.limite-topo p{
+    color: #2f86d6;
+    font-weight: 600;
+}
+
+.links-topo{
+    position:absolute;
+    top: 65px;
+    right: 0;
+}
+
+.links-topo a{
+    font-size: 18px;
+    text-decoration: none;
+    color: #233032;
+    font-weight: 600;
+    padding: 0 10px;
+}
+
+.banner{
+    background-color:#2f86d6;
+}
+
+.limite-banner{
+    width: 100%;
+    max-width: 1024px;
+}
+
+.limite-banner{
+    position: relative;
+    padding: 165px 0px;
+    margin: 0 auto;
+}
+
+.limite-banner div{
+    color: #fff;
+    width: 470px;
+}
+
+.limite-banner div p{
+    font-size: 16px;
+    line-height: 26px;
+    word-spacing: 3px;
+}
+
+.limite-banner div h2{
+    font-size: 28px;
+    line-height: 40px;
+    margin: 20px 0;
+}
+
+.limite-banner img{
+    width: 50%;
+    position: absolute;
+    top: 100px;
+    right: 0;
+}
+
+.anuncio{
+    width: 100%;
+    background-color: #233032;
+    padding: 40px ;
+}
+
+.limite-anuncio{
+    color: #fff;
+    max-width: 1024px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.limite-anuncio div{
+    width: 600px;
+}
+
+.limite-anuncio div h3{
+    font-size: 24px;
+}
+
+.limite-anuncio button a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+}
+
+.limite-anuncio button{
+    position: absolute;
+    background-color: #2f86d6;
+    right: 0;
+    top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.infos{
+    padding: 100px 0;
+    text-align: center;
+}
+
+.infos h2{
+    width: 900px;
+    font-size: 32px;
+    margin: 0 auto 60px;
+}
+
+.infos span{
+    color: #2f86d6;
+}
+
+.informacoes{
+    position: relative;
+    height: 240px;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.informacoes div{
+    width: 33%;
+    position: absolute;
+    top: 0;
+    margin: 0 auto;
+}
+
+.card2{
+    left: 343px;
+}
+
+.card3{
+    right: 0;
+}
+
+.informacoes div img{
+    width: 100px;
+}
+
+.informacoes div h4{
+    margin: 20px;
+}
+
+.limite-tabela{
+    background-color: #f1f3f7;
+    padding: 100px 0;
+}
+
+.limite-tabela h3{
+    font-size: 32px;
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.limite-tabela span{
+    color: #2f86d6;
+}
+
+table{
+    border-radius: 4px;
+    margin: auto;
+    box-shadow: 0 2px 40px 15px rgba(47,134,214,1);
+}
+
+table thead th{
+    text-align: center;
+    padding: 20px 0;
+    background-color: #fff;
+}
+
+table thead th h3{
+    margin-bottom: 20px;
+}
+
+table thead th img{
+    width: 100px;
+    margin: auto;
+}
+
+table thead th p{
+    max-width: 150px;
+    margin: auto;
+    padding-top: 10px;
+    font-size: 13px;
+    font-weight: 500;
+    color: #a89f9f;
+}
+
+table tbody td{
+    width: 250px;
+    max-width: 1024px;
+    text-align: center;
+    font-weight: 500;
+    padding: 15px;
+}
+
+.linha-impar{
+   background-color: #f6f6f6;
+}
+
+.linha-par{
+    background-color: #f1f3f7;
+}
+
+.anuncio2{
+    background-color: #2f86d6;
+}
+
+.anuncio2 button{
+    background-color: #233032;
+    border-radius: 5px;
+}
+
+.rodape{
+    width: 100%;
+    max-width: 1024px;
+    padding:100px 0 ;
+    margin: 0 auto;
+}
+
+.logo-rodape{
+    width: 320px;
+    position: relative;
+    margin: 70px auto 40px;
+}
+
+.logo-rodape div{
+    position: absolute;
+    top: 0;
+    left: 95px;
+}
+
+.logo-rodape img{
+    width: 80px;
+}
+
+.logo-rodape p{
+    font-weight: 600;
+    color: #2f86d6;
+}
+
+.contatos{
+    text-align: center;
+    margin-bottom: 50px;
+    line-height: 40px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.assinatura{
+    background-color: #f1f3f7;
+    font-weight: 600;
+    text-align: center;
+    padding: 30px ;
+    font-size: 16px;
+}
+
+.assinatura span{
+    color: #2f86d6;
+}
+
+

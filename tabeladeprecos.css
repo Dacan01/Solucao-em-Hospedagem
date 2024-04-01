@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+
+.topo-precos{
+    background-color: #2f86d6;
+}
+
+.limite-topo-precos{
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.limite-topo-precos{
+    position: relative;
+    padding: 35px 0;
+}
+
+.logo-topo-precos{
+    position:relative;
+}
+
+.logo-topo-precos img{
+        width: 80px;
+}
+
+.logo-topo-precos div{
+        position: absolute;
+        top: 0;
+        left: 95px;
+}
+
+.limite-topo-precos p{
+    color:#fff;
+    font-weight: 600;
+}
+
+.link-precos{
+    position:absolute;
+    top: 65px;
+    right: 0;
+}
+
+.link-precos a{
+    font-size: 18px;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+    padding: 0 10px;
+}
+
+.limite-tabela-precos{
+    padding: 100px 0;
+}
+
+.limite-tabela-precos table{
+    margin: auto;
+}
+
+.tabela{
+    max-width: 1024px;
+    margin: 50px auto;
+}
+
+.cedula-vazia{
+    visibility: hidden;
+}
+
+.cabecalho{
+    text-align: center;
+    padding: 20px 40px;
+    border-bottom: 1px solid #f1f3f7;
+    border-right: 1px solid #f1f3f7;
+    background-color: #f1f3f7;
+}
+
+.cabecalho p{
+    font-size: 14px;
+    font-weight: 500;
+    color: #a8a4a4;
+}
+
+.cabecalho h3{
+    font-size: 36px;
+}
+
+table tbody td{
+    text-align: center;
+    padding: 20px 40px;
+    border-bottom: 1px solid #f1f3f7;
+    border-right: 1px solid #f1f3f7;
+}
+
+.primeira-celula{
+    background-color: #f1f3f7;
+    font-weight: 500;
+    text-align: left;
+}
+
+.marcacao-azul{
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    background-color: #2f86d6;
+    border-radius: 100%;
+}
+
+.rodape-tabela-preco{
+    width: 100%;
+    padding:20px 0 ;
+    margin: 0 auto;
+    background-color: #2f86d6;
+}
+
+.rodape-tabela-preco p{
+    text-align: center;
+    color: #fff;
+}
+
+.rodape-preco{
+    width: 320px;
+    position: relative;
+    margin: 30px auto 30px;
+}
+
+.rodape-preco div{
+    position: absolute;
+    top: 0;
+    left: 95px;
+}
+
+.rodape-preco img{
+    width: 80px;
+}
+
+.rodape-preco p{
+    color: #fff;
+    font-weight: 600;
+}
+
+.assinatura-preco{
+    text-align: center;
+    font-weight: 600;
+    padding: 15px ;
+}
+
+.assinatura-preco span{
+    color: #2f86d6;
+}
+
