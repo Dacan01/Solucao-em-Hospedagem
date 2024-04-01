@@ -5,6 +5,10 @@
     font-family: 'poppins',sans-serif;
 }
 
+html{
+    scroll-behavior: smooth; 
+}
+
 .limite-topo{
     width: 100%;
     max-width: 1024px;
