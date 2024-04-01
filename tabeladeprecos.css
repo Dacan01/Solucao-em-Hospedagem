@@ -5,6 +5,10 @@
     font-family: 'poppins',sans-serif;
 }
 
+html{
+    scroll-behavior: smooth; 
+}
+
 .topo-precos{
     background-color: #2f86d6;
 }
